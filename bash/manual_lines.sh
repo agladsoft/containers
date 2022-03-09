@@ -1,7 +1,7 @@
 xls_path=/home/timur/PycharmWork/containers/manual_lines
 mkdir "${xls_path}"/csv
 mkdir "${xls_path}"/json
-
+# git
 
 for file in "${xls_path}"/*.xls*;
 do
